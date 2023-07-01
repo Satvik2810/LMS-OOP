@@ -75,3 +75,9 @@ b) All the functions will remain tightly coupled until we follow dependency inve
 
 
 UML Diagrams:
+![image](https://github.com/Satvik2810/LMS-OOP/assets/81152998/e73f2b41-225e-4628-8350-46e227892705)
+
+![image](https://github.com/Satvik2810/LMS-OOP/assets/81152998/77a122e2-bee5-4848-a864-f1d03f1226b2)
+
+
+![image](https://github.com/Satvik2810/LMS-OOP/assets/81152998/5ec4badd-2c7c-4580-a074-f78ffb6b74f1)
